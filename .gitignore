@@ -1,0 +1,11 @@
+# Dependencies (Crucial - do not upload node_modules)
+node_modules/
+
+# Local Environment Variables
+.env
+
+# Logs and OS system clutter
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
